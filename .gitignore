@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# macOS
+
+.DS_Store
+
+#audio files
+*.mp3 wav *.flac *.aac *.ogg *.m4a *.wma *.alac *.opus
+
